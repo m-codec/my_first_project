@@ -1,3 +1,10 @@
 hello! git
 
 Gitの操作方法について学んでいます。
+
+We are working on branch_a
+This commit is from branch_a
+
+Work on branch_a finished.
+
+Thank You.
